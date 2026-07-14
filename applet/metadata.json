@@ -1,8 +1,8 @@
 {
-"uuid": "menu@etap.org.tr",
-"gettext-domain": "menu@etap.org.tr",
+"uuid": "winvis300@gmail.com",
+"gettext-domain": "winvis300@gmail.com",
 "name": "Eta Menu",
-"description": "Custom Menu for ETAP",
-"icon": "eta-menu",
+"description": "Custom Menu for Cinnamon",
+"icon": "applictions-all",
 "max-instances": -1
 }
